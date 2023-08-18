@@ -41,14 +41,12 @@ Analisar a carteira de clientes e otimizar as despesas com Marketing
  - Com que frequência os usuários voltam?
 
 2 - Vendas
-
  - Quando as pessoas começam a comprar?
  - Quantos pedidos os clientes fazem durante um determinado período de tempo?
  - Qual é o volume médio de uma compra?
  - Quanto dinheiro eles trazem para a empresa (LTV)?
 
 3 - Marketing
-
  - Quanto dinheiro foi gasto? No total/por origem/ao longo do tempo
  - Quanto custou a aquisição de clientes para cada origem?
  - Os investimentos valeram a pena? (ROI)
