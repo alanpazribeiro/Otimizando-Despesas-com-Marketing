@@ -11,7 +11,7 @@ Analisar a carteira de clientes e otimizar as despesas com Marketing
 - Math
 - Seaborn
 
-## Descrição dos Dados:
+### Descrição dos Dados:
 1 - Tabela visits:
  - *Uid* — identificador unívoco do usuário
  - *Device* — dispositivo do usuário
@@ -32,7 +32,7 @@ Analisar a carteira de clientes e otimizar as despesas com Marketing
  - *dt* — data
  - *costs* — despesas com esta origem de anúncio neste dia
      
-## Análises Feitas e questionamentos respondidos:
+### Análises Feitas e questionamentos respondidos:
 
 1 - Comportamento do Usuário
  - Quantas pessoas usam-no cada dia, semana e mês?
@@ -51,7 +51,18 @@ Analisar a carteira de clientes e otimizar as despesas com Marketing
  - Quanto custou a aquisição de clientes para cada origem?
  - Os investimentos valeram a pena? (ROI)
 
-## Conclusões 
+### Conclusões 
 
  - Qual a recomendação aos especialistas de marketing quanto dinheiro e onde seria melhor investir.
  - Quais origens/plataformas você recomendaria? Fundamente sua escolha: em quais métricas você se concentrou? Por quê? Que conclusões você tirou ao encontrar os valores das métricas?
+
+# Execução do Projeto
+- Passo 1. Carregamento os dados e prepare-os para a análise
+  - Verificado tipo de dado
+  - Nulos/faltantes
+  - organizar/renomear colunas
+  - colunas tipo datetime
+  - amplitude das variáveis
+  - tipos de dados categóricos
+  - valores duplicados
+  - espaços e caracteres especiais nos dados
